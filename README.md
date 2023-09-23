@@ -1,0 +1,1 @@
+# phar-polyglot-files
